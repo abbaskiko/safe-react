@@ -225,7 +225,7 @@
     "redux-actions": "^2.6.5",
     "redux-thunk": "^2.3.0",
     "reselect": "^4.0.0",
-    "semver": "7.3.2",
+    "semver": "7.5.2",
     "styled-components": "^5.2.1",
     "web3": "1.2.11",
     "web3-core": "^1.2.11",
